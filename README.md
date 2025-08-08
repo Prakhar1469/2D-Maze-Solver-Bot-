@@ -1,2 +1,7 @@
 # 2D-Maze-Solver-Bot-
 Designed and built an autonomous robot that follows black-line paths and solves mazes using IR sensors and the left-hand rule.
+– Used three IR sensors to detect path segments and programmed turning logic based on sensor patterns.
+– Implemented left-turn priority (left-hand rule) to ensure complete maze traversal.
+– Controlled two DC motors via Arduino Uno using PWM for fixed-speed movement and delay-based turning.
+– Winner of MazeUp event at Techspardha 2024 at NIT Kurukshetra.
+– Tools & Tech: Arduino Uno, Embedded C, IR Sensors, Arduino IDE
